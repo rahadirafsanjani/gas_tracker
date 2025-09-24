@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  chain_id: 1
+  rpc_url: MyString
+  native_token: MyString
+  is_active: false
+
+two:
+  name: MyString
+  chain_id: 1
+  rpc_url: MyString
+  native_token: MyString
+  is_active: false
